@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "981771990847",
+    "project_id": "blogman-84009",
+    "storage_bucket": "blogman-84009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981771990847:android:648f5d329dd279636dc58a",
+        "android_client_info": {
+          "package_name": "com.rw.blogman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981771990847-c71a424bp0g42sisn5fv7o90fbv2slbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rw.blogman",
+            "certificate_hash": "db2950f4b8bd5461b71c16600670b23bda7d2501"
+          }
+        },
+        {
+          "client_id": "981771990847-5h3nolcan1q08q4is5l74qassb98v5qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArPdhPN-UZN0UQI6G54AmxWRfJtuAz0Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981771990847-5h3nolcan1q08q4is5l74qassb98v5qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
