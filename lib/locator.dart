@@ -15,8 +15,8 @@ void setup() {
   locator.registerLazySingleton<BloggerService>(() => BloggerService());
   locator.registerLazySingleton<AuthService>(() => AuthService());
   locator.registerLazySingleton<AdService>(() => AdService(
-      interstitialAd: "ca-app-pub-1923752572867502/4404138073",
-      openAppAd: "ca-app-pub-1923752572867502/6035401058"));
+      interstitialAd: null,
+      openAppAd: null));
   locator.registerLazySingleton<LocalService>(() => LocalService());
   locator.registerLazySingleton<AnalyticsService>(() => AnalyticsService());
 }
